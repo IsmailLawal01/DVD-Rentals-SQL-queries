@@ -1,4 +1,4 @@
-Question 1: Determine the top 3 films with the highest rental rates, assigning a rank to each film based on its rental rate.
+/*Question 1: Determine the top 3 films with the highest rental rates, assigning a rank to each film based on its rental rate.
 Question 2: Rank customers based on the total amount they spent on rentals, and display only those with a rank less than or equal to 5.
 Question 3: Calculate the rank of each actor based on the number of films they have appeared in.
 Question 4: Find the dense rank of each film category based on the number of films in that category.
@@ -10,6 +10,7 @@ Question 9: Find the three most active customers by the number of rentals, assig
 Question 10: Calculate the average rental rate for each film, considering a window that includes the two preceding and two following films based on their rental rate.
 Question 11: Compute the cumulative total rental revenue over time, ordering the results by the rental date, and reset the total for each new month.
 Question 12: Determine the maximum and minimum rental rates for each film category, considering a window that includes the three preceding and three following categories.
+*/
 
 --top 3 films with the highest rental rates, assigning a rank to each film based on its rental rate.
 SELECT 	
